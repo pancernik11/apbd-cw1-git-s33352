@@ -8,7 +8,7 @@
     return x.Average();
 }
 
-int maxklata(int[] x)
+int jestestotalnymkozakiem(int[] x)
 {
     if (x == null)
     {

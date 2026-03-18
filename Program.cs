@@ -8,7 +8,7 @@
     return x.Average();
 }
 
-int maxklata(int[] x)
+int Klamstwo(int[] x)
 {
     if (x == null)
     {

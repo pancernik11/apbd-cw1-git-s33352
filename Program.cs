@@ -7,3 +7,15 @@
 
     return x.Average();
 }
+
+int maxklata(int[] x)
+{
+    if (x == null)
+    {
+        return 0;
+    }
+    else
+    { 
+        return x.Max();
+    }
+}

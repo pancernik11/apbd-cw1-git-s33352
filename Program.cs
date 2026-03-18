@@ -1,16 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
-
-Console.WriteLine("elo benc1");
-
-if (true)
+﻿int kalkulator(int [] x)
 {
-    Console.WriteLine("benc elo");
-}
-if  (false)
-{
-    Console.WriteLine("benc elo");
-}
-if (2+2*2==6)
-{
-    Console.WriteLine("ciezka matma ");
+    int suma = 0;
 }

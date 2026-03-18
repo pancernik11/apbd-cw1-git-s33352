@@ -6,3 +6,7 @@ if (true)
 {
     Console.WriteLine("benc elo");
 }
+if  (false)
+{
+    Console.WriteLine("benc elo");
+}

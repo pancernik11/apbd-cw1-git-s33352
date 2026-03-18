@@ -10,3 +10,7 @@ if  (false)
 {
     Console.WriteLine("benc elo");
 }
+if (2+2*2==6)
+{
+    Console.WriteLine("ciezka matma ");
+}

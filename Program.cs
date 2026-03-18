@@ -1,4 +1,9 @@
 ﻿int kalkulator(int [] x)
 {
-    int suma = 0;
+    if (x==null)
+    {
+        return 0;
+    }
+
+    return x.Average();
 }

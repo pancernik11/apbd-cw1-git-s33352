@@ -19,4 +19,11 @@ int maxklata(int[] x)
         return x.Max();
     }
 }
-// wiesz o tym ze jak zjesz 1 kg cukierkow to jesteś w 1% słodki xdddd
+
+int malatrabka(int[] x)
+{
+    if (x == null)
+    {
+        
+    }
+}

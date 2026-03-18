@@ -24,6 +24,10 @@ int malatrabka(int[] x)
 {
     if (x == null)
     {
-        
+        return 0;
+    }
+    else
+    {
+        return x.Min();
     }
 }
